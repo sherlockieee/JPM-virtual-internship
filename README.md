@@ -8,3 +8,6 @@ Tasks involve:
 - Displaying data visually for traders (Trader's Dashboard)
 
 Final deliverable:
+
+https://user-images.githubusercontent.com/57033771/120918871-edd40080-c6e0-11eb-9376-1efd03636b07.mov
+
